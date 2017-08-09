@@ -1,4 +1,4 @@
-package com.diegosaul402.rssreader.model
+package com.diegosaul402.rssreader.Model
 
 /**
  * Created by diego on 09/08/2017.
